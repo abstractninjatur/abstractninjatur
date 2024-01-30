@@ -18,4 +18,6 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 
 - Email: [karthikeyanvelusamycs@gmail.com](mailto:karthikeyanvelusamycs@gmail.com)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&show_icons=true)
+
 _Check out my repositories below!_ 👇
