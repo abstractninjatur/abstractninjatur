@@ -4,12 +4,23 @@
 
 ### Full Stack Engineer | SRE | AI/ML Enthusiast
 
-Leveraging technology to build amazing things. I love working with Java, Python, and JavaScript, and I'm passionate about cloud computing and AI/ML.
+Leveraging technology to build amazing things. I love working with Java, Python, JavaScript and Go, and I'm passionate about cloud computing and AI/ML.
+
+---
+
+## 🚀 **Current Endeavors**
+📚 **Learning:** Deep dive into **Go** programming language.
+
+🛠 **Building:** An innovative application for **user management**, **meeting scheduling**, and **chat** functionalities.
+
+---
+
+
 
 #### Quick Facts
 - 📍 **Location:** San Francisco, CA
 - 💼 **Experience:** Full Stack Development, Site Reliability Engineering, AI/ML engineering
-- 🚀 **Skills:** Java, Python, JavaScript, Typescript, NodeJs, ReactJS, , AWS, Docker, Kubernetes, Terraform
+- 🚀 **Skills:** Java, Python, Go, JavaScript, Typescript, NodeJs, ReactJS, , AWS, Docker, Kubernetes, Terraform
 
 #### Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/krthikeyanvelusamy/)](https://www.linkedin.com/in/krthikeyanvelusamy/)
