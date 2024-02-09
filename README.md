@@ -30,5 +30,6 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 _Check out my repositories below!_ 👇
