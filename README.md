@@ -28,8 +28,33 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 
 - Email: [karthikeyanvelusamycs@gmail.com](mailto:karthikeyanvelusamycs@gmail.com)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/karthikeyanvelusamy">
+   <picture>
+      <source
+         srcset="https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&rank_icon=github&show_icons=true&layout=compact&theme=light"
+         media="(prefers-color-scheme: light)"
+         />
+      <source
+         srcset="https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&rank_icon=github&show_icons=true&layout=compact"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+         />
+      <img src="https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&rank_icon=github&show_icons=true" />
+   </picture>
+</a>
 
+<a href="https://github.com/karthikeyanvelusamy">
+   <picture>
+      <source
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=donut-vertical&theme=noctis_minimus&ring_color=#2FED80"
+         media="(prefers-color-scheme: light)"
+         />
+      <source
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=donut-vertical&theme=noctis_minimus&ring_color=#ff0000"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+         />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=donut-vertical&theme=noctis_minimus&show_icons=true&ring_color=#ff0000" />
+   </picture>
+</a>
+<br>
 _Check out my repositories below!_ 👇
