@@ -56,5 +56,8 @@ Leveraging technology to build amazing things. I love working with Java, Python,
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=donut-vertical&theme=noctis_minimus&show_icons=true&ring_color=#ff0000" />
    </picture>
 </a>
-<br>
-_Check out my repositories below!_ 👇
+
+
+
+                                                            <p style="font-size:16px; color: blue;"><em>Check out my repositories below!</em> 👇</p>
+
