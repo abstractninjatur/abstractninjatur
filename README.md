@@ -59,5 +59,5 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 
 
 
-                                                            <p style="font-size:16px; color: blue;"><em>Check out my repositories below!</em> 👇</p>
+                                                            ** Check out my repositories below! 👇 **
 
