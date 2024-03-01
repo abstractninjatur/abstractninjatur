@@ -20,7 +20,7 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 #### Quick Facts
 - 📍 **Location:** San Francisco, CA
 - 💼 **Experience:** Full Stack Development, Site Reliability Engineering, AI/ML engineering
-- 🚀 **Skills:** Java, Python,JavaScript, Typescript, AWS, Docker, Kubernetes, Terraform
+- 🚀 **Skills:** Java, Python,JavaScript, Typescript, AWS, Docker, Kubernetes, Terraform, Pulumi
 
 #### Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/krthikeyanvelusamy/)](https://www.linkedin.com/in/krthikeyanvelusamy/)
