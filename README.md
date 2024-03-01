@@ -11,7 +11,7 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 ## 🚀 **Current Endeavors**
 📚 **Learning:** Deep dive into **Go** programming language.
 
-🛠 **Building:** An innovative application for **user management**, **meeting scheduling**, and **chat** functionalities.
+🛠 **Building:** An innovative application for **user management**, **meeting scheduling**, and **chat** functionalities using Django, PostgreSQL, Pulumi and AWS
 
 ---
 
