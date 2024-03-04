@@ -15,8 +15,6 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 
 ---
 
-
-
 #### Quick Facts
 - 📍 **Location:** San Francisco, CA
 - 💼 **Experience:** Full Stack Development, Site Reliability Engineering, AI/ML engineering
