@@ -23,7 +23,7 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/krthikeyanvelusamy/)](https://www.linkedin.com/in/krthikeyanvelusamy/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vekacs)](https://twitter.com/vekacs)
 
-- Email: [karthikeyanvelusamycs@gmail.com](mailto:karthikeyanvelusamycs@gmail.com)
+
 
 
 <a href="https://github.com/karthikeyanvelusamy">
