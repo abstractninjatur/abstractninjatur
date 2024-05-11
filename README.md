@@ -24,31 +24,31 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 
 
 
-<a href="https://github.com/karthikeyanvelusamy">
+<a href="https://github.com/abstractninjatur">
    <picture>
       <source
-         srcset="https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&rank_icon=github&show_icons=true&layout=compact&theme=light"
+         srcset="https://github-readme-stats.vercel.app/api?username=abstractninjatur&rank_icon=github&show_icons=true&layout=compact&theme=light"
          media="(prefers-color-scheme: light)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&rank_icon=github&show_icons=true&layout=compact"
+         srcset="https://github-readme-stats.vercel.app/api?username=abstractninjatur&rank_icon=github&show_icons=true&layout=compact"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-      <img src="https://github-readme-stats.vercel.app/api?username=karthikeyanvelusamy&rank_icon=github&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=abstractninjatur&rank_icon=github&show_icons=true" />
    </picture>
 </a>
 
-<a href="https://github.com/karthikeyanvelusamy">
+<a href="https://github.com/abstractninjatur">
    <picture>
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=donut-vertical&theme=noctis_minimus&ring_color=#2FED80"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abstractninjatur&layout=donut-vertical&theme=noctis_minimus&ring_color=#2FED80"
          media="(prefers-color-scheme: light)"
          />
       <source
-         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=donut-vertical&theme=noctis_minimus&ring_color=#ff0000"
+         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abstractninjatur&layout=donut-vertical&theme=noctis_minimus&ring_color=#ff0000"
          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
          />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikeyanvelusamy&layout=donut-vertical&theme=noctis_minimus&show_icons=true&ring_color=#ff0000" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abstractninjatur&layout=donut-vertical&theme=noctis_minimus&show_icons=true&ring_color=#ff0000" />
    </picture>
 </a>
 <br>
