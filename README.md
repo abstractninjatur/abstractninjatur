@@ -1,4 +1,4 @@
-# karthik
+# Karthik
 
 ## Welcome to My GitHub 👋
 
