@@ -1,6 +1,5 @@
-# Karthik
 
-## Welcome to My GitHub 👋
+# Welcome to My GitHub 👋
 
 ### Full Stack Engineer | SRE | AI/ML Enthusiast
 
