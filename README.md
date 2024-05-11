@@ -1,4 +1,4 @@
-# Karthikeyan Velusamy
+# karthik
 
 ## Welcome to My GitHub 👋
 
