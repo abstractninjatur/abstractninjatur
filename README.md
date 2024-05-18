@@ -53,7 +53,7 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 </a>
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=abstractninjatur&style=flat-square)
+[![Page Visits](https://komarev.com/ghpvc/?username=abstractninjatur&style=flat-square)]
 <br>
 
 
