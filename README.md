@@ -53,6 +53,7 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 </a>
 <br>
 <br>
+[![Twitter Badge](https://komarev.com/ghpvc/?username=abstractninjatur&style=flat-square)](https://twitter.com/vekacs)
 [![Page Visits](https://komarev.com/ghpvc/?username=abstractninjatur&style=flat-square)]
 <br>
 
