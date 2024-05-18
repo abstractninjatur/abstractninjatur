@@ -20,7 +20,7 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 #### Connect with Me
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/krthikeyanvelusamy/)](https://www.linkedin.com/in/krthikeyanvelusamy/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/vekacs)](https://twitter.com/vekacs)
-
+![](https://komarev.com/ghpvc/?username=abstractninjatur&style=flat-square)
 
 
 
@@ -53,8 +53,7 @@ Leveraging technology to build amazing things. I love working with Java, Python,
 </a>
 <br>
 <br>
-[![Twitter Badge](https://komarev.com/ghpvc/?username=abstractninjatur&style=flat-square)](https://twitter.com/vekacs)
-[![Page Visits](https://komarev.com/ghpvc/?username=abstractninjatur&style=flat-square)]
+ 
 <br>
 
 
