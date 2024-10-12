@@ -1,20 +1,20 @@
 
 # Welcome to My GitHub 👋
 
-### Full Stack Engineer | SRE | AI/ML Enthusiast
+### Full Stack Engineer  | AI/ML Enthusiast
 
 Leveraging technology to build amazing things. I love working with Java, Python, JavaScript and Go, and I'm passionate about cloud computing and AI/ML.
 ----
 
 ## 🚀 **Current Endeavors**
-📚 **Learning:** Deep dive into **Go** programming language.
+📚 **Learning:**  Python, Async Programming.
 
 
 ---
 
 #### Quick Facts
 - 📍 **Location:** San Francisco, CA
-- 💼 **Experience:** Full Stack Development, Site Reliability Engineering, AI/ML engineering
+- 💼 **Experience:** Full Stack Development, AI/ML engineering
 - 🚀 **Skills:** Java, Python,JavaScript, Typescript, React, AWS, Docker, Kubernetes, Terraform, Pulumi
 
 #### Connect with Me
