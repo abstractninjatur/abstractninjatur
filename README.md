@@ -3,11 +3,9 @@
 
 ### Full Stack Engineer  | AI/ML Enthusiast
 
-Leveraging technology to build amazing things. I love working with Java, Python, JavaScript and Go, and I'm passionate about cloud computing and AI/ML.
+Leveraging technology to build amazing things. I love working with Java, Python, JavaScript/Typescript  and I'm passionate about cloud computing and AI/ML.
 ----
-
-## 🚀 **Current Endeavors**
-📚 **Learning:**  Python, Async Programming.
+ 
 
 
 ---
